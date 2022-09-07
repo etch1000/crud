@@ -1,2 +1,2 @@
-# crud
-CRUD application written in Rust
+#crud
+CRUD CLI application written in Rust
